@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kungfu Buddy", "Kungfu Buddy.csproj", "{BA5A72F3-1448-3A31-15E4-9AACFBEA28E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kungfu Buddy.Editor", "Kungfu Buddy.Editor.csproj", "{2D379A3E-842F-FCD0-665E-3190B1770162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA5A72F3-1448-3A31-15E4-9AACFBEA28E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5A72F3-1448-3A31-15E4-9AACFBEA28E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5A72F3-1448-3A31-15E4-9AACFBEA28E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5A72F3-1448-3A31-15E4-9AACFBEA28E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D379A3E-842F-FCD0-665E-3190B1770162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D379A3E-842F-FCD0-665E-3190B1770162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D379A3E-842F-FCD0-665E-3190B1770162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D379A3E-842F-FCD0-665E-3190B1770162}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
